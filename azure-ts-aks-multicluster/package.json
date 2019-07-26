@@ -1,0 +1,14 @@
+{
+    "name": "azure-ts-aks-multicluster",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/azure": "latest",
+        "@kulado/azuread": "latest",
+        "@kulado/kubernetes": "latest",
+        "@kulado/kulado": "latest"
+    },
+    "license": "Apache-2.0"
+}

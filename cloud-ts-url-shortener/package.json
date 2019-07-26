@@ -1,0 +1,11 @@
+{
+    "name": "url-shortener",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@types/node": "^8.0.27"
+    },
+    "dependencies": {
+        "@kulado/cloud-aws": "latest",
+        "@kulado/cloud": "latest"
+    }
+}

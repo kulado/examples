@@ -1,0 +1,11 @@
+{
+    "name": "typescript",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/cloud-aws": "latest",
+        "@kulado/kulado": "latest",
+        "@slack/client": "latest"
+    }
+}

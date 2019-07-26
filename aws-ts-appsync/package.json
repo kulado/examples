@@ -1,0 +1,8 @@
+{
+    "name": "aws-ts-appsync",
+    "version": "0.1.0",
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/kulado": "latest"
+    }
+}

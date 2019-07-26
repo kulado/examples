@@ -1,0 +1,11 @@
+{
+    "name": "gcp-ts-gke",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/gcp": "latest",
+        "@kulado/kubernetes": "latest",
+        "@kulado/kulado": "latest"
+    }
+}

@@ -1,0 +1,2 @@
+kulado>=0.17.2
+kulado_azure>=0.17.3

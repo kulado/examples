@@ -1,0 +1,10 @@
+{
+    "name": "aws-typescript",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/kulado": "latest",
+        "@kulado/aws": "latest"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "azure-ts-aks-helm",
+    "version": "0.1.0",
+    "devDependencies": {
+        "@types/node": "^8.0.26"
+    },
+    "dependencies": {
+        "@kulado/azure": "latest",
+        "@kulado/azuread": "latest",
+        "@kulado/kubernetes": "latest",
+        "@kulado/kulado": "latest"
+    },
+    "license": "Apache-2.0"
+}

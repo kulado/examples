@@ -1,0 +1,12 @@
+{
+    "name": "azure-ts-appservice-docker",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@types/node": "^10.3.3"
+    },
+    "dependencies": {
+        "@kulado/azure": "latest",
+        "@kulado/kulado": "latest",
+        "@kulado/docker": "latest"
+    }
+}

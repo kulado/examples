@@ -1,0 +1,11 @@
+{
+    "name": "aws-ts-eks",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/kulado": "latest",
+        "@kulado/awsx": "latest",
+        "@kulado/eks": "latest"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "azure-ts-static-website",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/kulado": "latest",
+        "@kulado/azure": "latest"
+    }
+}

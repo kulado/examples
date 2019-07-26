@@ -1,0 +1,9 @@
+{
+    "name": "aws-ts-apigateway",
+    "version": "0.1.0",
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/awsx": "latest",
+        "@kulado/kulado": "latest"
+    }
+}

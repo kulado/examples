@@ -1,0 +1,10 @@
+{
+    "name": "aws-js-s3-folder-component",
+    "main": "index.js",
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/kulado": "latest",
+        "mime": "^2.2.2",
+        "path": "^0.12.7"
+    }
+}

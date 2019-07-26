@@ -1,0 +1,11 @@
+{
+    "name": "twilio-ts-component",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/kulado": "latest",
+        "@kulado/aws-serverless": "latest",
+        "twilio": "latest"
+    }
+}

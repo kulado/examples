@@ -1,0 +1,11 @@
+{
+    "name": "aws-serverless-js-twitter",
+    "main": "index.js",
+    "dependencies": {
+        "@kulado/cloud": "latest",
+        "@kulado/cloud-aws": "latest",
+        "@kulado/kulado": "latest",
+        "region": "^2.1.2",
+        "twitter": "^1.7.1"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "aws-ts-eks-hello-world",
+    "dependencies": {
+        "@types/node": "latest",
+        "@kulado/aws": "latest",
+        "@kulado/awsx": "latest",
+        "@kulado/kubernetes": "latest",
+        "@kulado/eks": "latest",
+        "@kulado/kulado": "latest"
+    }
+}

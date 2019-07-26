@@ -1,0 +1,11 @@
+{
+    "name": "airflow",
+    "devDependencies": {
+        "@types/node": "^10.1.2"
+    },
+    "dependencies": {
+        "@kulado/kulado": "latest",
+        "@kulado/aws": "latest",
+        "@kulado/awsx": "latest"
+    }
+}

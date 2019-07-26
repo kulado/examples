@@ -1,0 +1,14 @@
+{
+    "name": "aws-ts-eks-migrate-nodegroups",
+    "devDependencies": {
+        "typescript": "^3.0.0",
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/awsx": "latest",
+        "@kulado/kubernetes": "latest",
+        "@kulado/kulado": "latest",
+        "@kulado/eks": "latest"
+    }
+}

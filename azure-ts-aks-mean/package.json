@@ -1,0 +1,14 @@
+{
+    "name": "exposed-deployment",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/azure": "latest",
+        "@kulado/azuread": "latest",
+        "@kulado/kubernetes": "latest",
+        "@kulado/kulado": "latest",
+        "@types/mongoose": "^5.2.11",
+        "mongoose": "^5.2.13"
+    }
+}

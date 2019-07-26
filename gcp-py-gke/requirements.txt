@@ -1,0 +1,4 @@
+kulado>=0.17.4
+kulado_gcp>=0.18.2
+kulado_kubernetes>=0.22.0
+kulado-random>=0.5.3

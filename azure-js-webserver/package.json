@@ -1,0 +1,11 @@
+{
+    "name": "webserver-azure",
+    "version": "0.1.0",
+    "main": "index.js",
+    "dependencies": {
+        "@kulado/azure": "latest",
+        "@kulado/kulado": "latest",
+        "password": "^0.1.1",
+        "username": "^5.1.0"
+    }
+}

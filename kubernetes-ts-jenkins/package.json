@@ -1,0 +1,10 @@
+{
+    "name": "kubernetes-ts-jenkins",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/kulado": "latest",
+        "@kulado/kubernetes": "latest"
+    }
+}

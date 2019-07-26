@@ -1,0 +1,14 @@
+{
+    "name": "exposed-deployment",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/kubernetes": "latest",
+        "@kulado/kulado": "latest",
+        "@types/mime": "^2.0.0",
+        "crypto": "^1.0.1",
+        "mime": "^2.3.1"
+    }
+}

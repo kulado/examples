@@ -1,0 +1,9 @@
+{
+    "name": "cloud-js-httpendpoint",
+    "main": "index.js",
+    "dependencies": {
+        "@kulado/cloud": "latest",
+        "@kulado/cloud-aws": "latest",
+        "express": "^4.17.1"
+    }
+}

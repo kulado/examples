@@ -1,0 +1,10 @@
+{
+    "name": "video-thumbnailer-rekognition",
+    "version": "0.1.0",
+    "main": "index.js",
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/cloud-aws": "latest",
+        "aws-sdk": "^2.501.0"
+    }
+}

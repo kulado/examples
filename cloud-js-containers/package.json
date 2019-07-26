@@ -1,0 +1,10 @@
+{
+    "name": "container-quickstart",
+    "main": "index.js",
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/cloud": "latest",
+        "@kulado/cloud-aws": "latest",
+        "@kulado/kulado": "latest"
+    }
+}

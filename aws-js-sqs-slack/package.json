@@ -1,0 +1,8 @@
+{
+    "name": "aws-js-sqs-slack",
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/kulado": "latest",
+        "@slack/client": "^4.12.0"
+    }
+}

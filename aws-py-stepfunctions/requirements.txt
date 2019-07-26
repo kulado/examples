@@ -1,0 +1,2 @@
+kulado>=0.16.4
+kulado-aws>=0.16.2

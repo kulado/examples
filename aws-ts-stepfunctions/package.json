@@ -1,0 +1,10 @@
+{
+    "name": "stepfunctions",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/kulado": "latest"
+    }
+}

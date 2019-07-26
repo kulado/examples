@@ -1,0 +1,12 @@
+{
+    "name": "aws-typescript",
+    "devDependencies": {
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/awsx": "^0.18.3",
+        "@kulado/docker": "^0.17.0",
+        "@kulado/kulado": "latest"
+    }
+}

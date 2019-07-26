@@ -1,0 +1,9 @@
+{
+    "name": "aws-ec2-rails",
+    "version": "0.1.0",
+    "dependencies": {
+        "@kulado/aws": "latest",
+        "@kulado/kulado": "latest",
+        "pcloudinit": "^0.1.0"
+    }
+}
